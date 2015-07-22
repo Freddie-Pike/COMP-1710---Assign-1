@@ -1,4 +1,4 @@
-// @Freddie Taylor Pike(201252723)
+// @Freddie Pike
 // A program that prints the perimeter of a letter sized sheet of paper and
 // prints it's diagonal
 
